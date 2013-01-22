@@ -1,0 +1,3 @@
+require 'json'
+
+SatisfactoryJson = JSON
